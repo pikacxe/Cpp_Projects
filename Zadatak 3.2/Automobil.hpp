@@ -3,14 +3,14 @@
 #include "menjac.hpp"
 #include "Skoljka.hpp"
 
-class Automobil: public Menjac ,public Skoljka{
+class Automobil{
     private:
         Menjac menjac;
         Skoljka skoljka;
     public:
-        Automobil(): Menjac(),Skoljka(){}
-        Automobil(Menjac m, Skoljka s): Menjac(m), Skoljka(s){}
-        Automobil(const Automobil& a): Menjac(a.menjac), Skoljka(a.skoljka){}
+        Automobil(): menjac(),skoljka(){}
+        Automobil(Menjac m, Skoljka s): menjac(m), skoljka(s){}
+        Automobil(const Automobil& a): menjac(a.menjac), skoljka(a.skoljka){}
 
         bool setBrojBrzina(int br){
            return menjac.setBrojBrzina(br);

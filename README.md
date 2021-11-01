@@ -1,2 +1,5 @@
-### SKUP ZADATAKA SA VEZBI
+### Zadaci sa vezbi predmeta Objektno orjentisano programiranje
+
+
+
 
