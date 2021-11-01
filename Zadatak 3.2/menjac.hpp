@@ -36,6 +36,8 @@ class Menjac{
         void setTip(TipMenjaca tm){
             tip = tm;
         }
+
+        friend void ispisMenjac(const Menjac&);
         
 };
 #endif

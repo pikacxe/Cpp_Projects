@@ -20,6 +20,8 @@ class Skoljka{
             boja = b;
         }
         BojaSkoljke getBoja() const { return boja;}
+
+        friend void ispisSkoljka(const Skoljka&);
 };
 
 

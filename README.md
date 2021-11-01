@@ -1,4 +1,4 @@
-### Zadaci sa vezbi predmeta Objektno orjentisano programiranje
+### Zadaci sa racunarskih vezbi predmeta Objektno orjentisano programiranje
 
 
 
