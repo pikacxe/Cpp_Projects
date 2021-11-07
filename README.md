@@ -1,4 +1,10 @@
-### Zadaci sa racunarskih vezbi predmeta Objektno orjentisano programiranje
+
+# Projekti u programskom jeziku C++
+
+----
+
+
+Za pokretanje zadataka potreban je c++ kompajler
 
 
 
