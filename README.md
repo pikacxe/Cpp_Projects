@@ -4,7 +4,7 @@
 ----
 
 
-Za pokretanje zadataka potreban je c++ kompajler
+Za pokretanje zadataka potreban je [C++ kompajler](https://www.mingw-w64.org/)
 
 
 
